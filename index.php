@@ -30,6 +30,7 @@
         <p>Perumahan Subsidi murah rumah viral Grand Cikarang City 2 (GCC 2) Lokasi sangat strategis dekat dengan sarana pendidikan, kantor pemerintahan, stasiun kereta, pasar tradisional, dan tidak jauh dari jalan propinsi pantura. Terletak di Jl. Kedung Waringin, Bekasi, Jawa Barat atau lebih tepatnya perbatasan antara Bekasi dengan Karawang. Launching perumahan subsidi baru dibuka pada bulan Agustus 2018. Untuk saat ini, pembangunan sudah pada tahap ke dua. – Rumah Viral</p>
         <h3><a id="about-link">Promo Diskon DP 50%</a></h3>
         <img src=""alt="Diskon">
+        <img src="WhatsApp Image 2021-09-22 at 17.27.31.jpeg"alt="Contoh Rumah">
         <h3><a id="about-link">Lokasi/ Alamat Grand Cikarang City 2</a></h3>
         <p>Lokasi / alamat perumahan Grand Cikarang City 2 berada di jalan pantura Karawang – Bekasi, lebih tepatnya di Kampung Babakan, Ds. Kedung Waringin, Kec. Kedung Waringin, Kab. Bekasi.</p>
                     
